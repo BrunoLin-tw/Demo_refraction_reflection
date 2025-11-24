@@ -1,0 +1,5 @@
+{
+  "name": "Copy of 光学实验室：月之暗面",
+  "description": "一个基于 Pink Floyd 专辑封面的交互式光折射与色散物理模拟。包含实时光线追踪和光谱渲染。",
+  "requestFramePermissions": []
+}
